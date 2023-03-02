@@ -11,12 +11,12 @@ AceToefl项目旨在为有开发需求的开发者们提供优质的托福备考
 
 以下项目同步推进中：
 
-[SocialScience](https://github.com/mywywuqek060/AceToefl_SocialScience_290)
+社会科学词汇 [SocialScience](https://github.com/mywywuqek060/AceToefl_SocialScience_290)
 
-[LifeScience](https://github.com/mywywuqek060/AceToelf_LifeScience_552)
+生命科学词汇 [LifeScience](https://github.com/mywywuqek060/AceToelf_LifeScience_552)
 
-[PhysicalScience](https://github.com/mywywuqek060/AceToefl_PhysicalScience_585)
+自然科学词汇 [PhysicalScience](https://github.com/mywywuqek060/AceToefl_PhysicalScience_585)
 
-[Art](https://github.com/mywywuqek060/AceToefl_Art_401)
+艺术类词汇 [Art](https://github.com/mywywuqek060/AceToefl_Art_401)
 
-[SLANG](https://github.com/mywywuqek060/SLANG)
+英文俚语 [SLANG](https://github.com/mywywuqek060/SLANG)
